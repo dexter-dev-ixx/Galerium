@@ -1,3 +1,0 @@
-# Galerium
-
-Initial Commit.
